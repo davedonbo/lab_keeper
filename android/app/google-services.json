@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626524693046",
+    "project_id": "labkeeper-b82bb",
+    "storage_bucket": "labkeeper-b82bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626524693046:android:c86098bee404f9b6f82e97",
+        "android_client_info": {
+          "package_name": "com.ashesi.lab_keeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fHckSfnZ-xgbH-LJ448SeLrwHr_gics"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
